@@ -10,8 +10,8 @@
 }
 
 .center {
-    text-align: center;
-    align-self: center;
+	text-align: center;
+	align-self: center;
 }
 
 .box {
@@ -26,6 +26,7 @@
 
 .inline-block {
 	display: inline-block;
+	width: 300px;
 }
 
 .flex-row {
